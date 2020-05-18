@@ -1,10 +1,10 @@
-# STA 323 :: Lab 2
+# STA 323 / 523 :: Lab 1
 
 ## Description
 
 The lab exercises focus on function writing and control flow in the R
 environment. R Markdown is used as an introduction to reproducible research.
-Directions are in file `lab2.Rmd`.
+Directions are in file `lab1.Rmd`.
 
 ## Learning objectives
 
